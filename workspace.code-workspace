@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../houstel_sites"
+		},
+		{
+			"path": "../Barbershop"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Javascript"
+	}
+}
